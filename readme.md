@@ -1,8 +1,7 @@
 <p align="center">
     <a href="https://github.com/sahapranta/laravel-bootstrap-sb-admin2/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/sahapranta/laravel-bootstrap-sb-admin2"></a>
-    
 <a href="https://github.com/sahapranta/laravel-bootstrap-sb-admin2/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/sahapranta/laravel-bootstrap-sb-admin2"></a>
-
+    <a href="https://liberapay.com/sahapranta/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 </p>
 
 ## About 
