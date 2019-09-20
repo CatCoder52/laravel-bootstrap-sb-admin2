@@ -1,6 +1,8 @@
-<p align="center"><a href="https://github.com/sahapranta/laravel-bootstrap-sb-admin2/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/sahapranta/laravel-bootstrap-sb-admin2"></a>
+<p align="center">
+    <a href="https://github.com/sahapranta/laravel-bootstrap-sb-admin2/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/sahapranta/laravel-bootstrap-sb-admin2"></a>
     
 <a href="https://github.com/sahapranta/laravel-bootstrap-sb-admin2/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/sahapranta/laravel-bootstrap-sb-admin2"></a>
+
 </p>
 
 ## About 
@@ -17,9 +19,9 @@ This is a open source project for laravel developer. Laravel 6 with Bootstrap SB
 
 ## Todo
 - [x] Add Workbox  webpack plugin
-- [] Add All Other Pages
-- [] Use npm for datatable, chartjs etc.
-- [] Configure PWA with better service worker strategy and webapp manifest.
+- [ ] Add All Other Pages
+- [ ] Use npm for datatable, chartjs etc.
+- [ ] Configure PWA with better service worker strategy and webapp manifest.
 
 
 ## License
