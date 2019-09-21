@@ -29,10 +29,14 @@
     <main id="app">
         <div id="page-top">
             <div id="wrapper">
+            @auth
                 @include('layouts.sidebar')
+            @endauth
                 <div id="content-wrapper" class="d-flex flex-column">
                     <div id="content">
+                    @auth
                         @include('layouts.navbar')
+                    @endauth
                         @yield('content')        
                         @include('layouts.footer')                
                     </div>
